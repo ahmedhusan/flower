@@ -1,0 +1,75 @@
+/* share font */
+.font{
+    font-family: "Lato", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #272727;
+  }
+  .bg-color{
+    background-color: #ffd4cf;
+  }
+  .first-div{
+    background-color: #ffd4cf;
+  }
+  nav{
+    justify-content: space-around;
+    display: flex;
+    align-items: center;    
+    background-color: #ffd4cf;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+  }
+  nav ul{
+    background: #ffd4cf;
+  }
+
+  h2 a{
+    font-size: 45px;
+    color: red;
+    text-decoration: none;
+  }
+
+  nav ul{
+  list-style:none ;
+  display: flex;
+  background-color: #ffd4cf;
+  }
+nav ul li{
+margin-right: 20px;
+padding: 10px;
+}
+
+nav ul li a{
+text-decoration: none;
+}
+nav ul li a:hover{
+color: rgb(120, 207, 26);
+background-color: crimson;
+}
+main{
+ max-width: 1440px;
+}
+.container{
+  border: solid red;
+display: flex;
+width: 90%;
+margin: 0% auto;
+}
+.banner-text{
+  width: 50%;
+border: 1px solid tomato;
+}
+.b-h1{
+font-size: 70px;
+font-weight: 900;
+}
+.b-p{
+
+}
+.btn-primary{
+
+}
+.banner-img{
+  width: 50%;
+  border: 1px solid tomato;
+}
+
+
